@@ -1,5 +1,3 @@
-// Here's some ample code
-
 import UIKit
 
 enum Section: CaseIterable {
