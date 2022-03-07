@@ -1,0 +1,2 @@
+# FlexibleCollectionViewCompositionalLayoutSample
+Flexible cell width use compositionalLayout
